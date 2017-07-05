@@ -1,0 +1,26 @@
+{
+  "name": "clubhouse-export",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "dependencies": {
+    "clubhouse-lib": "^0.1.6",
+    "fixed-data-table": "^0.6.4",
+    "flat": "^2.0.1",
+    "js-cookie": "^2.1.4",
+    "material-ui": "^1.0.0-alpha.21",
+    "material-ui-icons": "^1.0.0-alpha.19",
+    "react": "^15.6.1",
+    "react-csv": "^1.0.8",
+    "react-dom": "^15.6.1",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
